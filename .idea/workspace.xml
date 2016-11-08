@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9897489d-c7e6-4ca7-b608-5a488611aa13" name="Default" comment="" />
+    <list default="true" id="9897489d-c7e6-4ca7-b608-5a488611aa13" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="javacafe-spring-security-sample.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/hello-spring-boot/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/hello-spring-boot/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-base/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-base/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-auth/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-auth/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-login-step2/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-login-step2/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-login/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-login/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-password/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/gaebal-password/build/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/hello-web-security/.gradle/" />
-    <ignored path="$USER_HOME$/Development/spring-security-example/hello-web-security/build/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-boot/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-boot/build/" />
+    <ignored path="$PROJECT_DIR$/gaebal-base/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gaebal-base/build/" />
+    <ignored path="$PROJECT_DIR$/gaebal-auth/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gaebal-auth/build/" />
+    <ignored path="$PROJECT_DIR$/gaebal-login-step2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gaebal-login-step2/build/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/gaebal-login/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gaebal-login/build/" />
+    <ignored path="$PROJECT_DIR$/gaebal-password/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gaebal-password/build/" />
+    <ignored path="$PROJECT_DIR$/hello-web-security/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hello-web-security/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +36,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
-    <projectState path="$USER_HOME$/Development/spring-security-example">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
@@ -48,7 +51,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value="spring-security-example" />
+                <option name="myItemId" value="javacafe-spring-security-sample" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
             </PATH>
@@ -61,29 +64,1302 @@
     <favorites_list name="javacafe-spring-security-sample" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-web-security/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$USER_HOME$/Development/spring-security-example" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$USER_HOME$/Development/spring-security-example" value="2.0" />
+        <entry key="$PROJECT_DIR$" value="2.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="javacafe-spring-security-sample" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":hello-spring-boot" />
+                <option name="path" value="$PROJECT_DIR$/hello-spring-boot" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":gaebal-base" />
+                <option name="path" value="$PROJECT_DIR$/gaebal-base" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":gaebal-auth" />
+                <option name="path" value="$PROJECT_DIR$/gaebal-auth" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":gaebal-login-step2" />
+                <option name="path" value="$PROJECT_DIR$/gaebal-login-step2" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="javacafe-spring-security-sample" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":gaebal-login" />
+                <option name="path" value="$PROJECT_DIR$/gaebal-login" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":gaebal-password" />
+                <option name="path" value="$PROJECT_DIR$/gaebal-password" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":hello-web-security" />
+                <option name="path" value="$PROJECT_DIR$/hello-web-security" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gaebal-auth">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-auth" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gaebal-base">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-base" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gaebal-login">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gaebal-login-step2">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login-step2" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gaebal-password">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-password" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hello-spring-boot">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-spring-boot" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hello-web-security">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/hello-web-security" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$USER_HOME$/Development/gs-accessing-facebook/complete" value="1477553154000" />
-        <entry key="$USER_HOME$/Development/spring-boot-social-example" value="2955285670000" />
-        <entry key="$USER_HOME$/Development/spring-security-hands-on-4.1" value="1477032316000" />
-        <entry key="$USER_HOME$/Development/spring-social-facebook" value="5910224872000" />
-        <entry key="$USER_HOME$/Development/spring-social-samples/spring-social-quickstart" value="1477552746000" />
-        <entry key="$USER_HOME$/Development/spring-social-samples/spring-social-showcase-sec" value="1477552746000" />
-        <entry key="$USER_HOME$/Development/syrup-pay" value="4391201123000" />
-        <entry key="$USER_HOME$/Development/syruppay-java" value="2927931694000" />
+        <entry key="$PROJECT_DIR$/../gs-accessing-facebook/complete" value="1477553154000" />
+        <entry key="$PROJECT_DIR$/../spring-boot-social-example" value="2955285670000" />
+        <entry key="$PROJECT_DIR$" value="13307431986000" />
+        <entry key="$PROJECT_DIR$/../spring-security-hands-on-4.1" value="1477032316000" />
+        <entry key="$PROJECT_DIR$/../spring-social-facebook" value="5910224872000" />
+        <entry key="$PROJECT_DIR$/../spring-social-samples/spring-social-quickstart" value="1477552746000" />
+        <entry key="$PROJECT_DIR$/../spring-social-samples/spring-social-showcase-sec" value="1477552746000" />
+        <entry key="$PROJECT_DIR$/../syrup-pay" value="4391201123000" />
+        <entry key="$PROJECT_DIR$/../syruppay-java" value="2927931694000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/gaebal-auth">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/gaebal-auth" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/gaebal-base">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/gaebal-base" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/gaebal-login">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/gaebal-login" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/gaebal-login-step2">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/gaebal-login-step2" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/gaebal-password">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/gaebal-password" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/hello-spring-boot">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/hello-spring-boot" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/hello-web-security">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/hello-web-security" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="hello-spring-boot" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/core-impl" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/cpp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/language-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-base-services-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-base-services-groovy-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-cli-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-core-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-docs-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-launcher-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-messaging-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-native-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-open-api-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-resources-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-tooling-api-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-ui-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/gradle-wrapper-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/groovy-all-2.3.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-announce-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-antlr-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-build-comparison-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-build-init-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-code-quality-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-core-impl-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-cpp-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-diagnostics-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-ear-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-ide-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-ivy-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-jacoco-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-javascript-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-jetty-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-language-base-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-language-jvm-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-maven-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-osgi-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-plugin-use-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-plugins-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-publish-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-reporting-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-resources-http-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-scala-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-signing-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/gradle-sonar-2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.0-all/evtta6k9rngqxp6sxbf6unsdw/gradle-2.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -93,8 +1369,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Development/spring-security-example/hello-spring-boot/src/main/java/net/javacafe/hello/example/SampleController.java" />
-        <option value="$USER_HOME$/Development/spring-security-example/settings.gradle" />
+        <option value="$PROJECT_DIR$/hello-spring-boot/src/main/java/net/javacafe/hello/example/SampleController.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -116,7 +1393,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1173" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -145,15 +1422,39 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring-security-example" />
+              <option name="myItemId" value="javacafe-spring-security-sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javacafe-spring-security-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-security-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javacafe-spring-security-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-security-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello-web-security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +1465,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Development/spring-security-example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -233,7 +1534,7 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Development/spring-security-example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -668,29 +1969,29 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1478603267077" />
+    <option name="lastUpdateTimestamp" value="1478603860048" />
     <option name="modificationStamps">
       <map>
-        <entry key="$USER_HOME$/Development/akka-http-microservice" value="1461319980000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section2/playing-with-actors" value="1442323400000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section3/actor-paths" value="1445620558000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section3/hotswap-behavior" value="1449959898000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section3/routing" value="1449954828000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section4/persistence" value="1445693396000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section4/persistent-fsm&amp;query" value="1446180440000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section5/akka-cluster" value="1450929324000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section5/akka-remoting" value="1450631638000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section6/testing-actors" value="1450949622000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section7/akka-streams" value="1440857352000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section8/akka-http-client-side-api" value="1441542084000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section8/akka-http-server-side-api" value="1441542084000" />
-        <entry key="$USER_HOME$/Development/learning-akka/code/section8/rest-api" value="1442033444000" />
-        <entry key="$USER_HOME$/Development/parellels-scala" value="1416887590000" />
-        <entry key="$USER_HOME$/Development/prog-scala-2nd-ed-code-examples" value="1472623175000" />
-        <entry key="$USER_HOME$/Development/progfun1/example" value="1459487574000" />
-        <entry key="$USER_HOME$/Development/progfun1/recfun" value="1462340330000" />
-        <entry key="$USER_HOME$/Development/progfun2/example" value="1457084270000" />
-        <entry key="$USER_HOME$/Development/scalechain" value="20653029544000" />
+        <entry key="$PROJECT_DIR$/../akka-http-microservice" value="1461319980000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section2/playing-with-actors" value="1442323400000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section3/actor-paths" value="1445620558000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section3/hotswap-behavior" value="1449959898000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section3/routing" value="1449954828000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section4/persistence" value="1445693396000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section4/persistent-fsm&amp;query" value="1446180440000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section5/akka-cluster" value="1450929324000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section5/akka-remoting" value="1450631638000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section6/testing-actors" value="1450949622000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section7/akka-streams" value="1440857352000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section8/akka-http-client-side-api" value="1441542084000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section8/akka-http-server-side-api" value="1441542084000" />
+        <entry key="$PROJECT_DIR$/../learning-akka/code/section8/rest-api" value="1442033444000" />
+        <entry key="$PROJECT_DIR$/../parellels-scala" value="1416887590000" />
+        <entry key="$PROJECT_DIR$/../prog-scala-2nd-ed-code-examples" value="1472623175000" />
+        <entry key="$PROJECT_DIR$/../progfun1/example" value="1459487574000" />
+        <entry key="$PROJECT_DIR$/../progfun1/recfun" value="1462340330000" />
+        <entry key="$PROJECT_DIR$/../progfun2/example" value="1457084270000" />
+        <entry key="$PROJECT_DIR$/../scalechain" value="20653029544000" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -709,29 +2010,35 @@
       <updated>1478602793314</updated>
       <workItem from="1478602808180" duration="579000" />
       <workItem from="1478603448914" duration="29000" />
+      <workItem from="1478603835363" duration="396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="608000" />
+    <option name="totallyTimeSpent" value="1004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25079873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25079873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22257721" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -742,13 +2049,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -771,10 +2073,26 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Development/spring-security-example/hello-spring-boot/build.gradle" />
-    <entry file="file://$USER_HOME$/Development/spring-security-example/hello-spring-boot/src/main/java/net/javacafe/hello/example/SampleController.java" />
-    <entry file="file://$USER_HOME$/Development/spring-security-example/build.gradle" />
-    <entry file="file://$USER_HOME$/Development/spring-security-example/settings.gradle" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-boot/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-boot/src/main/java/net/javacafe/hello/example/SampleController.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle" />
+    <entry file="file://$PROJECT_DIR$/hello-web-security/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
