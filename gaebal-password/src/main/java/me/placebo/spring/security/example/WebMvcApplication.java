@@ -21,7 +21,7 @@ public class WebMvcApplication extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(WebMvcApplication.class);
+        return application.sources(WebMvcApplication.class, WebSecurityConfig.class);
     }
 
     public static void main(String[] args) {
@@ -43,6 +43,6 @@ public class WebMvcApplication extends SpringBootServletInitializer {
          * 만약 이러한 Root 설정이 어려울 경우 gradle bootRun 으로 Spring Boot 를 시작할 수 있으나 Intellij 상에서 terminate 가 안되므로
          * 별도의 Console 에서 gradle bootRun 후에 Ctrl + C 를 이용하여 Terminate 할 것을 권장한다.
          */
-        return factory -> factory.setDocumentRoot(new File("gaebal-base/src/main/webapp"));
+        return factory -> factory.setDocumentRoot(new File("gaebal-password/src/main/webapp"));
     }
 }

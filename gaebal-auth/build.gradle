@@ -14,13 +14,8 @@ apply plugin: 'spring-boot'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-
 group = 'me.placebo'
 version = '1.0.0'
-
-war {
-    baseName = 'gaebal'
-}
 
 repositories {
     jcenter()

@@ -9,7 +9,6 @@ buildscript {
 
 apply plugin: 'java'
 apply plugin: 'idea'
-apply plugin: 'war'
 apply plugin: 'spring-boot'
 
 sourceCompatibility = 1.8
@@ -18,10 +17,6 @@ targetCompatibility = 1.8
 
 group = 'me.placebo'
 version = '1.0.0'
-
-war {
-    baseName = 'gaebal'
-}
 
 repositories {
     jcenter()
@@ -37,6 +32,6 @@ dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'javax.servlet:jstl'
 
-    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
-    providedRuntime 'org.apache.tomcat.embed:tomcat-embed-jasper'
+    compile 'org.springframework.boot:spring-boot-starter-tomcat'
+    compile 'org.apache.tomcat.embed:tomcat-embed-jasper'
 }

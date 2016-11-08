@@ -1,4 +1,4 @@
-package net.javacafe.gaebal;
+package me.placebo.spring.security.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-rootProject.name = 'javacafe-spring-security-sample'
+rootProject.name = 'spring-security-example'
 
 include 'hello-web-security'
 include 'hello-spring-boot'

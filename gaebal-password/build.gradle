@@ -18,10 +18,6 @@ targetCompatibility = 1.8
 group = 'me.placebo'
 version = '1.0.0'
 
-war {
-    baseName = 'gaebal'
-}
-
 repositories {
     jcenter()
     mavenCentral()
