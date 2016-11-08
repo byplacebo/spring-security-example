@@ -1,0 +1,9 @@
+rootProject.name = 'javacafe-spring-security-sample'
+
+include 'hello-web-security'
+include 'hello-spring-boot'
+include 'gaebal-base'
+include 'gaebal-login'
+include 'gaebal-login-step2'
+include 'gaebal-password'
+include 'gaebal-auth'
