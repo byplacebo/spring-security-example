@@ -10,14 +10,14 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
  * @since 2015.10.28
  */
 @SpringBootApplication
-public class Application extends SpringBootServletInitializer {
+public class WebApplication extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(Application.class);
+        return application.sources(WebApplication.class);
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(WebApplication.class, args);
     }
 }
