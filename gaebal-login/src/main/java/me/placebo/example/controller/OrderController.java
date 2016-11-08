@@ -30,7 +30,7 @@ public class OrderController {
     public ModelAndView order(Principal principal) {
         ModelAndView mav = new ModelAndView();
         mav.addObject("orders", orders);
-        mav.addObject("name", principal.getName());
+        mav.addObject("name", principal.getName() );
         return mav;
     }
 

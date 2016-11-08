@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9897489d-c7e6-4ca7-b608-5a488611aa13" name="Default" comment="move package to short">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/WebMvcApplication.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebMvcApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebSecurityConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/controller/HomeController.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/controller/HomeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/controller/OrderController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/domain/User.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/domain/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/repository/UserRepository.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/repository/UserRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/security/UserToOrderDetails.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/security/UserToOrderDetails.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/security/UserToOrderDetailsService.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/security/UserToOrderDetailsService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/spring/security/example/WebApplication.java" afterPath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/spring/security/example/controller/HomeController.java" afterPath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/HomeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/WebMvcApplication.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/WebMvcApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/WebSecurityConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/controller/HomeController.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/HomeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/controller/OrderController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/domain/User.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/domain/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/repository/UserRepository.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/repository/UserRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/security/UserToOrderDetails.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/security/UserToOrderDetails.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/spring/security/example/security/UserToOrderDetailsService.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/security/UserToOrderDetailsService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/spring/security/example/WebMvcApplication.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebMvcApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/spring/security/example/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/spring/security/example/controller/HomeController.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/controller/HomeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/WebMvcApplication.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/WebMvcApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/WebSecurityConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/controller/HomeController.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/controller/HomeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-login-step2/src/main/java/me/placebo/example/controller/OrderController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/domain/User.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/domain/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/repository/UserRepository.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/repository/UserRepository.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/security/UserToOrderDetails.java" afterPath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/security/UserToOrderDetails.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/security/UserToOrderDetailsService.java" afterPath="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/security/UserToOrderDetailsService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello-spring-boot/src/main/java/me/placebo/spring/security/example/SampleController.java" afterPath="$PROJECT_DIR$/hello-spring-boot/src/main/java/me/placebo/example/SampleController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello-web-security/src/main/java/me/placebo/spring/security/example/AuthenticationExample.java" afterPath="$PROJECT_DIR$/hello-web-security/src/main/java/me/placebo/example/AuthenticationExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello-web-security/src/main/java/me/placebo/spring/security/example/SampleAuthenticationManager.java" afterPath="$PROJECT_DIR$/hello-web-security/src/main/java/me/placebo/example/SampleAuthenticationManager.java" />
+    <list default="true" id="9897489d-c7e6-4ca7-b608-5a488611aa13" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/resources/logback.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebMvcApplication.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gaebal-login/src/main/webapp/WEB-INF/jsp/order.jsp" afterPath="$PROJECT_DIR$/gaebal-login/src/main/resources/META-INF/resources/WEB-INF/jsp/order.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-base/build.gradle" afterPath="$PROJECT_DIR$/gaebal-base/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java" afterPath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-base/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/gaebal-base/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-login/build.gradle" afterPath="$PROJECT_DIR$/gaebal-login/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java" afterPath="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gaebal-login/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/gaebal-login/src/main/resources/application.properties" />
     </list>
     <ignored path="javacafe-spring-security-sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,82 +79,8 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value=":gaebal-base" />
+                <option name="myItemId" value=":gaebal-login" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="spring-security-example" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":gaebal-base" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Source Sets" />
-                <option name="myItemType" value="org.jetbrains.plugins.gradle.service.project.view.GradleViewContributor$SourceSetsNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="spring-security-example" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":gaebal-base" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Source Sets" />
-                <option name="myItemType" value="org.jetbrains.plugins.gradle.service.project.view.GradleViewContributor$SourceSetsNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="main" />
-                <option name="myItemType" value="org.jetbrains.plugins.gradle.service.project.view.GradleViewContributor$SourceSetNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Dependencies" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="spring-security-example" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":gaebal-base" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Source Sets" />
-                <option name="myItemType" value="org.jetbrains.plugins.gradle.service.project.view.GradleViewContributor$SourceSetsNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="main" />
-                <option name="myItemType" value="org.jetbrains.plugins.gradle.service.project.view.GradleViewContributor$SourceSetNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Dependencies" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="org.springframework.boot:spring-boot-starter-web:1.4.1.RELEASE" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
               </PATH_ELEMENT>
             </PATH>
           </tree_state>
@@ -190,25 +94,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="WebApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java">
+        <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gaebal-login/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -216,28 +110,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gaebal-base/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="495">
+              <caret line="33" column="11" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -253,31 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebSecurityConfig.java">
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="order.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/resources/META-INF/resources/WEB-INF/jsp/order.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnableAutoConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.5.RELEASE/e883aad899472950328e41989a6f7cb0b944c425/spring-boot-autoconfigure-1.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+            <state relative-caret-position="375">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -286,8 +140,62 @@
       <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="218">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gaebal-login/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/META-INF/resources/WEB-INF/jsp/order.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -711,44 +619,13 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs this project as a JVM application" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="run" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="startScripts" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes resources 'main:resources'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
                 <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
@@ -759,6 +636,11 @@
                 <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
                 <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles Java source 'main:java'." />
@@ -786,14 +668,19 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="description" value="Assembles classes 'test'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="installApp" />
+                <option name="name" value="testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes resources 'test:resources'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
                 <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
+                <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
@@ -810,14 +697,14 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="description" value="Assembles a jar archive containing the main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="distTar" />
+                <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Bundles the project as a JVM application with libs and OS specific scripts." />
+                <option name="description" value="Processes resources 'main:resources'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/gaebal-login" />
-                <option name="name" value="distZip" />
+                <option name="name" value="processResources" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -1269,7 +1156,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../gs-accessing-facebook/complete" value="1477553154000" />
         <entry key="$PROJECT_DIR$/../spring-boot-social-example" value="2955285670000" />
-        <entry key="$PROJECT_DIR$" value="13307458754000" />
+        <entry key="$PROJECT_DIR$" value="13307473415000" />
         <entry key="$PROJECT_DIR$/../spring-security-hands-on-4.1" value="1477032316000" />
         <entry key="$PROJECT_DIR$/../spring-social-facebook" value="5910224872000" />
         <entry key="$PROJECT_DIR$/../spring-social-samples/spring-social-quickstart" value="1477552746000" />
@@ -1339,14 +1226,14 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/fccd0aec63d477ec34f5a8f5b6ad0feabb99e374/spring-boot-gradle-plugin-1.2.5.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.2.5.RELEASE/ef47a558b65928a44eac01f8f59257c057d2fe04/spring-boot-gradle-plugin-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/bd610ee2e5fae4df73a6e7960998294d69343fda/spring-boot-loader-tools-1.2.5.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.2.5.RELEASE/9de9235ff11c61271c884aada26ff31bae5c41e1/spring-boot-loader-tools-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/86633485318ce0aa8ef26540486b97027cded446/spring-boot-dependency-tools-1.2.5.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.2.5.RELEASE/dcdb9919203dec33e4286eabe45150a5e5b307c7/spring-boot-dependency-tools-1.2.5.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.4.1.RELEASE/4c84ae5e525c3e224cde2e90ca7e340b1f3a5714/spring-boot-gradle-plugin-1.4.1.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.4.1.RELEASE/899766b30092b5cc3467def7c8093baf39b8bf92/spring-boot-gradle-plugin-1.4.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.4.1.RELEASE/1665ad7bc97c7bc716fa9318adef4615d1101fc5/spring-boot-loader-tools-1.4.1.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.4.1.RELEASE/939fe186f9cb554862f3daab2400f5f91d62efdc/spring-boot-loader-tools-1.4.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.6.1.RELEASE/d324f1dab8d15e9e55507d9981de9e2b6f0b1c78/dependency-management-plugin-0.6.1.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.6.1.RELEASE/46cb985239502be3dcb94e0df45f797804e95fb8/dependency-management-plugin-0.6.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.3.RELEASE/ee672807fd6afe5ab70e1d089e38ed925d527a36/spring-core-4.3.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.3.RELEASE/ffad13be3dac6eef7d2418a9de87c2a1592d3033/spring-core-4.3.3.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
                           </list>
@@ -1540,7 +1427,6 @@
         <option value="$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/gaebal-login/build.gradle" />
         <option value="$PROJECT_DIR$/gaebal-auth/build.gradle" />
         <option value="$PROJECT_DIR$/gaebal-login-step2/build.gradle" />
         <option value="$PROJECT_DIR$/gaebal-password/build.gradle" />
@@ -1548,8 +1434,18 @@
         <option value="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/spring/security/example/WebMvcApplication.java" />
         <option value="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/spring/security/example/Application.java" />
         <option value="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/spring/security/example/WebApplication.java" />
-        <option value="$PROJECT_DIR$/gaebal-base/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebMvcApplication.java" />
+        <option value="$PROJECT_DIR$/gaebal-login/src/main/resources/META-INF/resources/WEB-INF/jsp/order.jsp" />
+        <option value="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java" />
         <option value="$PROJECT_DIR$/gaebal-base/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebApplication.java" />
+        <option value="$PROJECT_DIR$/gaebal-login/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/gaebal-base/build.gradle" />
+        <option value="$PROJECT_DIR$/gaebal-login/build.gradle" />
+        <option value="$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java" />
       </list>
     </option>
   </component>
@@ -1649,6 +1545,40 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javacafe-spring-security-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-security-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gaebal-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1676,7 +1606,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="placebo" />
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javacafe-spring-security-sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-security-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gaebal-login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1814,20 +1778,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javacafe-spring-security-sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-security-example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gaebal-auth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1849,6 +1799,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gaebal-login/src/main" />
+      <recent name="$PROJECT_DIR$/gaebal-login/src/main/resources/META-INF/resources/WEB-INF/jsp" />
       <recent name="$PROJECT_DIR$/gaebal-base/src/main/webapp" />
       <recent name="$PROJECT_DIR$/gaebal-base/src/main" />
       <recent name="$PROJECT_DIR$/gaebal-base/src/main/resources" />
@@ -1857,9 +1809,11 @@
       <recent name="me.placebo.spring.security.example" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gaebal-login/src/main/resources/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/gaebal-login/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/gaebal-login/src/main/resources" />
       <recent name="$PROJECT_DIR$/gaebal-base/src/main/resources/META-INF/resources/WEB-INF/jsp" />
       <recent name="$PROJECT_DIR$/gaebal-base/src/main/resources/MET-INF/resources/WEB-INF/jsp" />
-      <recent name="$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/spring/security/example" />
     </key>
   </component>
   <component name="RunManager" selected="Application.AuthenticationExample">
@@ -2392,7 +2346,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1478611050284" />
+    <option name="lastUpdateTimestamp" value="1478613057614" />
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/../akka-http-microservice" value="1461319980000" />
@@ -2436,7 +2390,7 @@
       <updated>1478602793314</updated>
       <workItem from="1478602808180" duration="579000" />
       <workItem from="1478603448914" duration="29000" />
-      <workItem from="1478603835363" duration="5864000" />
+      <workItem from="1478603835363" duration="9642000" />
     </task>
     <task id="LOCAL-00001" summary="init project from javacafe sample source">
       <created>1478604261983</created>
@@ -2480,11 +2434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478611191403</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="move package to short">
+      <created>1478611389248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1478611389248</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6472000" />
+    <option name="totallyTimeSpent" value="10250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="0" />
@@ -2596,78 +2557,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-web-security/src/main/java/me/placebo/example/AuthenticationExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-web-security/src/main/java/me/placebo/example/SampleAuthenticationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.5.RELEASE/92d7398aae773353d22328da032aeac4f3c9d743/spring-boot-1.2.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="944" column="49" selection-start-line="944" selection-start-column="49" selection-end-line="944" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-boot/src/main/java/me/placebo/example/SampleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login-step2/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login-step2/src/main/webapp/WEB-INF/jsp/order.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/3.2.7.RELEASE/4b2d0daeb969017d743142279491e7ea83278ffe/spring-security-core-3.2.7.RELEASE-sources.jar!/org/springframework/security/provisioning/InMemoryUserDetailsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.7.RELEASE/e922f94169382a4d6472e1e2f6266dc6c97471d7/spring-security-config-3.2.7.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configurers/provisioning/InMemoryUserDetailsManagerConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -2684,42 +2573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebMvcApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/webapp/WEB-INF/jsp/order.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2820,14 +2677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gaebal-password/src/main/java/me/placebo/example/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -2862,22 +2711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login-step2/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-password/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hello-web-security/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -2890,14 +2723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebMvcApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -2918,14 +2743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -2942,23 +2759,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-login/build.gradle">
+    <entry file="file://$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2972,17 +2777,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.4.1.RELEASE/280436acbd899db30e116434c87475db35497085/spring-boot-1.4.1.RELEASE-sources.jar!/org/springframework/boot/context/web/SpringBootServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.5.RELEASE/92d7398aae773353d22328da032aeac4f3c9d743/spring-boot-1.2.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="944" column="49" selection-start-line="944" selection-start-column="49" selection-end-line="944" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/jsp/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-base/build.gradle">
+    <entry file="file://$PROJECT_DIR$/gaebal-login-step2/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebMvcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-password/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-boot/src/main/java/me/placebo/example/SampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/3.2.7.RELEASE/e922f94169382a4d6472e1e2f6266dc6c97471d7/spring-security-config-3.2.7.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/servlet/configuration/EnableWebMvcSecurity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.1.3.RELEASE/a2c99ea0a382697a2e97c94f6f2860efb6800ee7/spring-security-config-4.1.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/servlet/configuration/EnableWebMvcSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/webapp/WEB-INF/jsp/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/WEB-INF/jsp/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2994,10 +2905,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gaebal-auth/src/main/java/me/placebo/example/WebSecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/gaebal-base/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="495">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-base/src/main/java/me/placebo/example/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/java/me/placebo/example/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/META-INF/resources/WEB-INF/jsp/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaebal-login/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3013,7 +2986,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -3057,7 +3029,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|gaebal-base_main|gaebal-base</last-edited>
+          <last-edited>Spring|gaebal-login_main|gaebal-login</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
