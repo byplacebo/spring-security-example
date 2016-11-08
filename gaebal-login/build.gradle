@@ -16,7 +16,7 @@ sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 
-group = 'net.javacafe'
+group = 'me.placebo'
 version = '1.0.0'
 
 war {
@@ -38,6 +38,6 @@ dependencies {
     compile  'org.springframework.boot:spring-boot-starter-security'
 
     compile 'javax.servlet:jstl'
-    compile 'org.springframework.boot:spring-boot-starter-tomcat' //providedRuntime
-    compile 'org.apache.tomcat.embed:tomcat-embed-jasper' //providedRuntime
+    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
+    providedRuntime 'org.apache.tomcat.embed:tomcat-embed-jasper'
 }
