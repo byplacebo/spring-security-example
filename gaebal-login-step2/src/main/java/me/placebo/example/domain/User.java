@@ -10,15 +10,13 @@ public class User {
     private String password;
     private String address;
     private String cellphone;
-    private String role;
 
-    public User(String id, String name, String password, String address, String cellphone, String role) {
+    public User(String id, String name, String password, String address, String cellphone) {
         this.id = id;
         this.name = name;
         this.password = password;
         this.address = address;
         this.cellphone = cellphone;
-        this.role = role;
     }
 
     public String getId() {
@@ -59,13 +57,5 @@ public class User {
 
     public void setCellphone(String cellphone) {
         this.cellphone = cellphone;
-    }
-
-    public String getRole() {
-        return role;
-    }
-
-    public void setRole(String role) {
-        this.role = role;
     }
 }

@@ -5,6 +5,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
@@ -19,11 +20,10 @@ public class UserToOrderDetails implements UserDetails {
     private String password;
     private String cellphone;
     private String address;
-    private List<GrantedAuthority> roles;
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        return this.roles;
+        return Arrays.asList(new SimpleGrantedAuthority("ROLE_USER"));
     }
 
     public UserToOrderDetails(User u) {
@@ -32,7 +32,6 @@ public class UserToOrderDetails implements UserDetails {
         this.password = u.getPassword();
         this.cellphone = u.getCellphone();
         this.address = u.getAddress();
-        this.roles = Collections.singletonList(new SimpleGrantedAuthority(u.getRole()));
     }
 
     public String getName() {
