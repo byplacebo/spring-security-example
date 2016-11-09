@@ -23,7 +23,9 @@ public class UserRepository {
     @PostConstruct
     public void init() {
         REPOSITORY.put("placebo", new User("placebo", "임형태", passwordEncoder.encode("password"), "010-3535-1414", "경기도 성남시 분당구 삼평동"));
-        System.out.println("encoded password of placebo is " + REPOSITORY.get("placebo").getPassword());
+        System.out.println("=============================================");
+        System.out.println("* encoded password of placebo is " + REPOSITORY.get("placebo").getPassword());
+        System.out.println("=============================================");
     }
 
     public User get(String name) {
