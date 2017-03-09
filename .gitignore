@@ -120,3 +120,4 @@ fabric.properties
 
 # IntelliJ project files
 gen
+gaebal-auth/src/main/webapp/
